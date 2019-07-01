@@ -1,0 +1,237 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.imgDir {
+  font-size: 40px;
+  border: none;
+  margin-top: 45vh;
+}
+
+#mapWrapper {
+  height: 480px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+#mapWrapper.maximize {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 5px;
+  z-index: 99999;
+}
+
+#mapWrapper .btn {
+  border: none;
+}
+
+#mapBtns {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 99;
+  white-space: nowrap;
+  font-size: 0;
+}
+
+.well .form-group {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#imageWrapper {
+  padding: 0;
+  font-size: 0;
+  margin-right: 0;
+  position: absolute;
+  width: 70%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transition: width .3s linear;
+}
+
+#imageWrapper div {
+  border: 5px solid #fff;
+  border-radius: 10px;
+  position: relative;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+#imageWrapper div:first-child,
+#imageWrapper.show2 div:nth-child(2),
+#imageWrapper.show3 div:nth-child(-n+3),
+#imageWrapper.show4 div:nth-child(-n+4),
+#imageWrapper.show5 div:nth-child(-n+5),
+#imageWrapper.show6 div {
+  display: inline-block;
+}
+
+#img1 {
+  width: 100%;
+  height: 100%;
+}
+
+.show2 #img1, .show3 #img1, .show4 #img1 {
+  width: 50%;
+}
+
+#img2 {
+  display: none;
+  width: 50%;
+  height: 100%;
+}
+
+.show3 #img1, .show4 #img1, .show3 #img2, .show4 #img2 {
+  height: 50%;
+}
+
+#img3 {
+  display: none;
+  width: 100%;
+  height: 50%;
+}
+
+.show4 #img3,
+.show5 #img1, .show5 #img2 {
+  width: 50%;
+  height: 50%;
+}
+
+#img4 {
+  display: none;
+  width: 50%;
+  height: 50%;
+}
+
+#img5 {
+  display: none;
+  width: 33.333%;
+  height: 50%;
+}
+
+#img6 {
+  display: none;
+  width: 33.333%;
+  height: 50%;
+}
+
+.pano.show2 #img1, .pano.show4 #img1, .pano.show2 #img2 {
+  width: 100%;
+  height: 50%;
+}
+
+.pano.show4 #img2, .pano.show4 #img3, .pano.show4 #img4,
+.show5 #img3, .show5 #img4,
+.show6 #img1, .show6 #img2, .show6 #img3, .show6 #img4 {
+  width: 33.333%;
+  height: 50%;
+}
+
+#description {
+  font-size: 1.5em;
+}
+
+#hideshow {
+  position: absolute;
+  right: 7px;
+  top: 7px;
+}
+
+#sidecol {
+  padding: 5px;
+  position: absolute;
+  width: 30%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+  transition: left .3s linear,opacity .2s linear;
+}
+
+#sidecol .well {
+  overflow: auto;
+  max-height: 100%;
+}
+
+#content.fullwidth #sidecol {
+  left: -28%;
+  opacity: .5;
+}
+
+#content.fullwidth #sidecol:hover {
+  opacity: 1;
+}
+
+#content.fullwidth #imageWrapper {
+  width: 98%;
+}
+
+#lightbox {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  bottom: 15px;
+  left: 15px;
+  box-shadow: 0 0 15px #666;
+  z-index: 9999;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-color: #222;
+  background-size: contain;
+  border-radius: 10px;
+}
+
+#closelb {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.well .btn i {
+  color: #333 !important;
+}
+
+#lightbox .btn {
+  color: #fff;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 40px;
+  opacity: .5;
+  transition: opacity .3s linear;
+}
+
+#nextLight, #prevLight {
+  position: absolute;
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  margin-top: -25px;
+}
+
+#lightbox .btn:hover {
+  opacity: 1;
+}
+
+#nextLight {
+  right: 10px;
+}
+
+#lastLight {
+  left: 10px;
+}

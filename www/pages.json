@@ -1,0 +1,526 @@
+[
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "panorama",
+    "images": [11, 16, 20, 29, 32, 40],
+    "description": "Heute heißt es früh aufstehen, denn kurz vor 8 Uhr startet unsere Rundfahrt durch LA! Erster Stop ist der Gründerplatz der Stadt, samt Bahnhof im Art Déco Stil und der historischen Olvera Street. Und ein kleiner Bär :)",
+    "position": [-118.2417, 34.0561]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "normal",
+    "images": [42, 45, 62, 64],
+    "description": "Weiter geht's durch Chinatown, vorbei an einer typischen amerikanischen Kirche, samt achtspurigem Freeway, und dem Rathaus zur Walt Disney Concert Hall! Die war früher mal blank poliert, das hat aber die Piloten geblendet, daher ist sie jetzt matt...",
+    "position": [-118.2417, 34.0561]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "normal",
+    "images": [71, 72, 77, 79, 84],
+    "description": "Nun fahren wir durch Downtown LA, vorbei an Wolkenkratzern, und entlang des heruntergekommenen Broadways bis zum Staples Center.",
+    "position": [-118.2545109, 34.051013]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "panorama",
+    "images": [93, 98],
+    "description": "Da das Griffith Observatory (unten in der Mitte) diese Woche leider geschlossen ist, fahren wir zum Dodgers Stadium, immerhin das größte Baseball-Stadium der USA. Da gibt es auch einen schönen Ausblick über die Stadt.",
+    "position": [-118.2399, 34.0823]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "panorama",
+    "images": [105, 128],
+    "description": "Weiter geht's vorbei am (recht weit entfernten) Hollywood Schild zum Walk of Fame! Und dort als erstes TCL Chinese Theatre, wo die größten Stars im Beton verewigt sind.",
+    "position": [-118.3432, 34.102]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "normal",
+    "images": "Stars.gif",
+    "description": "Anschließend einmal die Straße runter und wieder rauf auf der Suche nach den Sternen.",
+    "position": [-118.3432, 34.102]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "normal",
+    "images": [185, 191, 192, 188, 189],
+    "description": "Nach der Mittagspause am Farmers Market geht's weiter nach Beverly Hills zum Hotel, in dem 'Pretty Woman' spielt, und dem berühmten Rodeo Drive.",
+    "position": [-118.4007992, 34.0671412]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "panorama",
+    "images": [199, 201],
+    "description": "Nächster Halt Santa Monica, Blick auf Strand und Pier mit Rummel.",
+    "position": [-118.5013547, 34.0153885]
+  },
+  {
+    "title": "Tag 1: Los Angeles",
+    "type": "normal",
+    "images": [207, 204, 206, 212, 214],
+    "description": "Letzter Halt am Venice Beach mit dem Motto: 'Sehen und gesehen werden!'.",
+    "position": [-118.4735437, 33.9861053]
+  },
+  {
+    "title": "Tag 2: LA -> Yoshua Tree NP",
+    "type": "normal",
+    "images": [222, 225, 232, 236, 240, 246],
+    "description": "Heute steht die erste Fahrt an. Mit unserem Nissan Rogue geht es als erstes zum Yoshua Tree Nationalpark. Unterwegs gibt es jede Menge Asphalt und Windräder.",
+    "position": [-117.3579947, 33.9938244]
+  },
+  {
+    "title": "Tag 2: Yoshua Tree Nationalpark",
+    "type": "panorama",
+    "images": [271],
+    "description": "Angekommen im Nationalpark bewundern wir die außergewöhnlichen Joshua-Trees aus der Gattung der Spargelgewächse (ich finde die Ähnlichkeit verblüffend), die hier in dieser trockenen Gegend gedeihen.",
+    "position": [-116.1969, 34.0403]
+  },
+  {
+    "title": "Tag 2: Yoshua Tree Nationalpark",
+    "type": "normal",
+    "images": [295, 297, 302, 312, 321],
+    "description": "Anschließend drehen wir bei knapp 100°F (37°C) eine Runde durchs wunderschöne 'Hidden Valley'!",
+    "position": [-116.1698, 34.0133]
+  },
+  {
+    "title": "Tag 2: Yoshuas -> London Bridge",
+    "type": "panorama",
+    "images": [328, 336, 353, 371, 374],
+    "description": "Jetzt geht es weiter in Richtung Lake Havasu City! Die Briefkästen werden jetzt am Straßenrand gesammelt, die Kurven weniger und die Straßen leerer.",
+    "position": [-115.2200184, 34.0471026]
+  },
+  {
+    "title": "Tag 2: London Bridge",
+    "type": "panorama",
+    "images": [402, 397, 404, 407],
+    "description": "Die 'London Bridge', 1968 Stein für Stein in London abgetragen und hier wieder aufgebaut. Mit den Laternen und allem was dazugehört ist sie angeblich die zweitwichtigste Touristenattraktion Arizonas.",
+    "position": [-114.3480215, 34.4715913]
+  },
+  {
+    "title": "Tag 2: London Bridge -> Kingman",
+    "type": "panorama",
+    "images": [413, 442, 446],
+    "description": "Weiter geht's zum Hotel nach Kingman für die nächste Übernachtung und einen wunderschönen Sonnenuntergang!",
+    "position": [-114.0150167, 35.2124232]
+  },
+  {
+    "title": "Tag 3: Kingman -> Seligman",
+    "type": "panorama",
+    "images": [631, 469, 491, 493, 506, 540],
+    "description": "Heute soll es zum Grand Canyon gehen, unterwegs nehmen wir die legendäre Route 66. Schon nach wenigen Meilen kommen uns nur noch Oldtimer entgegen und wir kommen uns vor wie auf einer Zeitreise!",
+    "position": [-113.6095, 35.4625]
+  },
+  {
+    "title": "Tag 3: Seligman",
+    "type": "panorama",
+    "images": [582, 584, 596, 599, 604],
+    "description": "Angekommen im kleinen Örtchen Seligman wissen wir auch, warum. Ein Oldtimer-Treff, sogar mit dazugehörigem DeLorean DMC-12!",
+    "position": [-112.8800108, 35.3275933]
+  },
+  {
+    "title": "Tag 3: Seligman -> Grand Canyon",
+    "type": "panorama",
+    "images": [671],
+    "description": "Auf dem restlichen Weg frage ich mich einige Male, ob ich mit Franzi Karten spielen könnte, wenn ich ein Spurhaltesystem hätte...",
+    "position": [-112.1311895, 35.7445765]
+  },
+  {
+    "title": "Tag 3: Grand Canyon",
+    "type": "panorama",
+    "images": [741],
+    "description": "Der Grand Canyon! Los geht unsere Foto-Tour am alten Wachturm.",
+    "position": [-111.8307034, 36.04364]
+  },
+  {
+    "title": "Tag 3: Grand Canyon",
+    "type": "panorama",
+    "images": [731, 756, 735, 808, 840, 893],
+    "description": "Nun geht es entlang der südlichen Kante in Richtung Grand Canyon Village.",
+    "position": [-112.1075, 36.0609]
+  },
+  {
+    "title": "Tag 3: Grand Canyon",
+    "type": "panorama",
+    "images": [860, 870, 872, 881, 883, 886],
+    "description": "Entlang einer Stein-Zeitlinie wandern wir eine Milliarde Jahre in die Vergangenheit.",
+    "position": [-112.1181403, 36.0662063]
+  },
+  {
+    "title": "Tag 4: Grand Canyon",
+    "type": "panorama",
+    "images": [967, 984, 969, 995, 1007],
+    "description": "Am nächsten Tag gehen wir entlang der Kante weiter, bis wir schließlich um 11 Uhr zum Flugfeld müssen.",
+    "position": [-112.1467, 36.0621]
+  },
+  {
+    "title": "Tag 4: Grand Canyon",
+    "type": "panorama",
+    "images": [1023, 1057, 1064, 1074, 1080, 1124],
+    "description": "Dort angekommen geht es auch gleich ab in die Luft zu einem atemberaubenden Rundflug.",
+    "position": [-111.8882, 36.0499]
+  },
+  {
+    "title": "Tag 4: Grand Canyon",
+    "type": "panorama",
+    "images": [1173, 1175, 1196, 1199, 1212, 1213],
+    "description": "Anschließend geht es in Kehren in die Schlucht hinab. Bis ins Tal dauert leider einen ganzen Tag (+ Aufstieg = 3 Tage), daher geht es nur einen Teil hinein. Trotzdem schön!",
+    "position": [-112.0896988, 36.0642187]
+  },
+  {
+    "title": "Tag 5: Grand Canyon -> Page",
+    "type": "panorama",
+    "images": [1250, 1265, 1271, 1279, 1289, 1341],
+    "description": "Auf dem Weg zum Horseshoe Bend und unserem nächsten Übernachtungsziel Page machen wir noch einen kleinen Abstecher zum Mond...",
+    "position": [-111.397, 35.9619]
+  },
+  {
+    "title": "Tag 5: Horseshoe Bend",
+    "type": "normal",
+    "images": [1355, 1373, 1397, 1415],
+    "description": "Kurz vor Page liegt die wohl am meisten fotografierte Stelle des Colorado Rivers. Das können wir uns natürlich nicht entgehen lassen. Ganz allein sind wir dabei nicht...",
+    "position": [-111.5105, 36.8793]
+  },
+  {
+    "title": "Tag 6: Page -> Monument Valley",
+    "type": "normal",
+    "images": [1421, 1431, 1458, 1504],
+    "description": "Nach einer entspannten Nacht in Page, wo auch der riesige Lake Powell anfängt, und dementsprechend des öfteren Boote vor uns fahren, versuchen wir uns zum Monument Valley durchzuschlagen. Leider bewirft ein LKW uns mit Steinen, sodass wir kleinere Kratzer abbekommen...",
+    "position": [-111.4837, 36.9355]
+  },
+  {
+    "title": "Tag 6: Monument Valley",
+    "type": "normal",
+    "images": [1649, 1672, 1720, 1732, 1744],
+    "description": "Trotzdem erreichen wir unser Ziel, genießen die Aussicht und beschließen die Offroad-Runde durch das Tal zu machen. Wir sehen unter anderem den Elefanten, die drei Schwestern, die üppige Vegetation und den Totem Pole.",
+    "position": [-110.0881, 36.9534]
+  },
+  {
+    "title": "Tag 6: Monument Valley",
+    "type": "normal",
+    "images": 1764,
+    "description": "Zum Abschluss gibt es noch einmal den Blick mit wunderschöner Wolkenstimmung auf die drei großen Buttes: West Mitten, East Mitten und Merrick.",
+    "position": [-110.1119767, 36.9833929]
+  },
+  {
+    "title": "Tag 6: Monument Valley -> Moab",
+    "type": "normal",
+    "images": [1905, 1922, 1935, 2045],
+    "description": "Unterwegs nach Moab holt uns der Regen ein, trotzdem machen wir noch einen Abstecher ins Canyonlands zu erneut spannenden Felsformationen und Petroglyphen (eingekratzte Felsmalerei).",
+    "position": [-109.5181, 37.988]
+  },
+  {
+    "title": "Tag 7: Arches Nationalpark",
+    "type": "normal",
+    "images": [2304, 2337, 2059, 2061, 2193],
+    "description": "Heute geht es zum Arches Nationalpark. Dort erwarten uns unter anderem ein treues Schaf und drei lästernde Gossips und ein balancierender Stein.",
+    "position": [-109.5646, 38.7423]
+  },
+  {
+    "title": "Tag 7: Arches Nationalpark",
+    "type": "normal",
+    "images": [2158, 2308, 2329, 2339, 2367],
+    "description": "Aber was wäre der Arches Nationalpark ohne Arches (Steinbögen)?",
+    "position": [-109.5985, 38.7873]
+  },
+  {
+    "title": "Tag 7: Dead Horse Point",
+    "type": "normal",
+    "images": [2438, 2440, 2443],
+    "description": "Nun geht es noch einmal in die Canyonlands. Genauer gesagt zum Dead Horse Point, einer Kehre des Canyons, in der die Indianer früher die Pferde zusammengetrieben haben um diese zu fangen. Achja, schön ist es da auch...",
+    "position": [-109.7412, 38.4701]
+  },
+  {
+    "title": "Tag 8: Mill Canyon",
+    "type": "normal",
+    "images": [2464, 2465, 2496, 2497],
+    "description": "Am nächsten Tag geht es weiter zum Bryce Canyon. Doch zuerst kommt noch der Mill Canyon, ein ausgetrockneter Flusslauf, der jede Menge Dinosaurier-Knochen und Fußspuren konserviert hat. #dinos!!!",
+    "position": [-109.7405969, 38.7120142]
+  },
+  {
+    "title": "Tag 8: Mill Canyon -> Capitol Reef",
+    "type": "normal",
+    "images": [2549, 2563, 2601, 2607, 2631],
+    "description": "Nun geht es weiter Richtung Capitol Reef. Unterwegs präsentiert sich Utah in den Unterschiedlichsten Farben und Formen. Gefühlt durchqueren wir innerhalb von etwa 150km 3 Klimazonen, den Mond und den Mars.",
+    "position": [-110.5463349, 38.6645518]
+  },
+  {
+    "title": "Tag 8: Capitol Reef NP",
+    "type": "normal",
+    "images": [2642, 2647, 2648, 2699, 2708],
+    "description": "Der nächste Halt ist der Capitol Reef Nationalpark. Hier sollen die Felsen so aussehen wie die Kuppel eines Kapitols, deshalb wohl auch der Name. Ansonsten gibt es Petroglyphen, ein Mormonen-Dorf, Raupen und viel buntes Gestein.",
+    "position": [-111.2623457, 38.2910916]
+  },
+  {
+    "title": "Tag 8: Utah Highway 12",
+    "type": "normal",
+    "images": [2768, 2736, 2756, 2782, 2787],
+    "description": "Nun geht es zum nächsten großen Highlight unseres Trips, dem Bryce Canyon. Unterwegs fahren wir den 'schönsten Highway Utahs', der sich auf stolze 9600ft (2926m) hochschraubt... leider bei Regen und ohne Sicht. Trotzdem schön!",
+    "position": [-111.329, 38.0485]
+  },
+  {
+    "title": "Tag 9: Bryce Canyon",
+    "type": "normal",
+    "images": [2989, 2905, 3054, 2849, 3004, 2967],
+    "description": "Über Nacht ist aus dem Regen Schneefall geworden, sodass uns am nächsten Tag die weiße Winterwelt begrüßt. Nicht ganz das, was wir erwartet hatten, aber auf 2400m Höhe auch nicht ganz unerwartet. Auf jeden Fall ein schöner Kontrast zum roten Canyon.",
+    "position": [-112.1671, 37.6235]
+  },
+  {
+    "title": "Tag 10: Bryce Canyon",
+    "type": "normal",
+    "images": 3123,
+    "description": "Am nächsten Tag scheint wieder die Sonne, daher müssen wir nochmal überprüfen, ob der Canyon denn mit Sonne auch schön ist. Entscheidet selbst...",
+    "position": [-112.1671, 37.6235]
+  },
+  {
+    "title": "Tag 10: Zion Nationalpark",
+    "type": "normal",
+    "images": [3191, 3203, 3212, 3251],
+    "description": "Nächster Halt Zion Nationalpark. Leider sehr voll und nur mit dem Shuttle-Bus zu erreichen (grundsätzlich gut), wofür zu wenig Zeit ist. Daher kurz angeschnitten.",
+    "position": [-112.9004, 37.224]
+  },
+  {
+    "title": "Tag 10: Zion NP -> Valley of Fire",
+    "type": "panorama",
+    "images": [3306, 3318],
+    "description": "Auf dem Weg zum Valley of Fire finden wir wieder ein paar verirrte Yoshua Trees und ansonsten schlängeln wir uns durch die Berge nach Nevada.",
+    "position": [-113.8337475, 36.9188451]
+  },
+  {
+    "title": "Tag 10: Valley of Fire",
+    "type": "normal",
+    "images": [3371, 3390, 3407, 3442, 3447],
+    "description": "Warum es Valley of Fire heißt, wird einem schnell klar. Und warum hier Szenen für Star Trek gedreht werden auch. Daher ignorieren wir die Warnung, dass Wandern nicht empfohlen wird wegen der Hitze und schauen uns die beeindruckenden Farbenspiele und Petroglyphen der Ureinwohner genauestens an.",
+    "position": [-114.522289, 36.4833318]
+  },
+  {
+    "title": "Tag 10: Valley of Fire",
+    "type": "normal",
+    "images": 3463,
+    "description": "Und machen noch schnell Richards persönlichen Schnappschuss des Urlaubs :)",
+    "position": [-114.5315235, 36.4926694]
+  },
+  {
+    "title": "Tag 10: Lake Mead",
+    "type": "panorama",
+    "images": [3543, 3570],
+    "description": "Weiter Richtung Hoover Dam geht es entlang des Lake Mead.",
+    "position": [-114.8398908, 36.1099235]
+  },
+  {
+    "title": "Tag 10: Hoover Dam",
+    "type": "normal",
+    "images": [3577, 3593, 3619, 3643],
+    "description": "Der Hoover Staudamm ist definitiv ein beeindruckendes Stück Beton.",
+    "position": [-114.7380477, 36.0154385]
+  },
+  {
+    "title": "Tag 10: Las Vegas",
+    "type": "normal",
+    "images": 3663,
+    "description": "Willkommen im fabulösen Las Vegas direkt mit unserem Hotel im Hintergrund.",
+    "position": [-115.1729823, 36.0812967]
+  },
+  {
+    "title": "Tag 11: Las Vegas",
+    "type": "normal",
+    "images": [3692, 3711, 3712, 3745, 3816, 3755],
+    "description": "Heute steht viel an! Von den ägyptischen Pyramiden geht's über New York nach Italien um dann kurz im Circus durchzuatmen, bevor es über Venedig nach Paris und zurück nach Las Vegas geht! Kurzum eine Stadt der irren Superlative mitten im Nirgendwo...",
+    "position": [-115.1734, 36.1116]
+  },
+  {
+    "title": "Tag 11: Las Vegas",
+    "type": "normal",
+    "images": [3735, 3761, 3824, 3848, 3851, 3861],
+    "description": "Da es draußen echt sehr heiß ist, verbringt man natürlich recht viel Zeit in den klimatisierten Hotel-Casinos. Da man dort ja auch sein Geld lassen soll, hat man die innen auch teilweise sehr hübsch/extravagant geschmückt.",
+    "position": [-115.1691, 36.1225]
+  },
+  {
+    "title": "Tag 11: Las Vegas",
+    "type": "normal",
+    "images": [3870, 3875, 3876],
+    "description": "Da man tagsüber mit den Klimaanlagen anscheinend noch nicht genug Strom verschwendet, werden dann nachts noch die Lichter angeknipst. Sehr unökologisch, aber wenn man da mal nicht drüber nachdenkt, ist es schön...",
+    "position": [-115.1739, 36.0985]
+  },
+  {
+    "title": "Tag 12: Death Valley",
+    "type": "normal",
+    "images": [3880, 3906, 3912, 3932, 3950, 3956],
+    "description": "Heute geht es weiter durch das Death Valley. Bei Spitzentemperaturen von 44 °C und 85 m unter Meereshöhe kann man gut nachvollziehen, warum unser Nissan auch keine Lust mehr hat und kurzerhand die Hälfte seiner Sensoren ausschaltet. Trotzdem ein sehr interessanter Ort, wo man sich allerdings nicht länger als nötig aufhalten möchte.",
+    "position": [-116.8262, 36.2859]
+  },
+  {
+    "title": "Tag 12: Death Valley",
+    "type": "normal",
+    "images": 3981,
+    "description": "Achso, was wäre denn eine Wüste ohne ein paar ordentliche Sanddünen?",
+    "position": [-117.1156653, 36.6057715]
+  },
+  {
+    "title": "Tag 12: Death Valley -> Lone Pine",
+    "type": "normal",
+    "images": [4009, 4015, 4018, 4053],
+    "description": "Anschließend geht es direkt wieder auf 5000ft (1500m) Höhe, um danach wieder auf Meereshöhe zu fallen, dann wieder hoch, dann... recht bergig ist es hier.",
+    "position": [-117.2937, 36.3553]
+  },
+  {
+    "title": "Tag 13: Lone Pine",
+    "type": "panorama",
+    "images": [4070, 4079],
+    "description": "Heute sollte es eigtl. direkt über die Sierra Nevada zum Yosemite Nationalpark gehen. Leider ist der Pass mitte Mai immer noch nicht geräumt. Daher knipsen wir schnell noch den Mt. Whitney (4421 m), den höchsten Berg der USA (ohne Alaska), und fahren dann Richtung Süden um die Sierra herum.",
+    "position": [-118.0574, 36.5935]
+  },
+  {
+    "title": "Tag 13: Lone Pine -> Sequoia NP",
+    "type": "normal",
+    "images": [4122, 4128, 4178, 4202],
+    "description": "Um den Umweg auch etwas zu nutzen, machen wir einen Abstecher durch den Sequoia Nationalpark. Auf dem Weg dahin kommen wir noch am gemütlichen Isabella Lake, blumigen Wiesen und jeder Menge Orangenbäumen vorbei.",
+    "position": [-118.4523413, 35.6567452]
+  },
+  {
+    "title": "Tag 13: Sequoia Nationalpark",
+    "type": "normal",
+    "images": [4274, 4299],
+    "description": "Der Sequoia Nationalpark ist bekannt für ... seine Sequoia Bäume. Beeindruckende Redwood-Mammutbäume säumen den Weg, allen voran General Sherman, der mit 1486,9 m³ Holz das größte Volumen der Welt hat.",
+    "position": [-118.7519538, 36.5817157]
+  },
+  {
+    "title": "Tag 13: Sequoia Nationalpark",
+    "type": "normal",
+    "images": 4325,
+    "description": "Und als Bonus gibt es einen weiteren Lieblingsschnappschuss von Richard!",
+    "position": [-118.7519538, 36.5817157]
+  },
+  {
+    "title": "Tag 13: Sequoia NP -> Oakhurst",
+    "type": "normal",
+    "images": [4332, 4362, 4366],
+    "description": "Auf der letzten Etappe des Tages kommt dann auch Franzi im abnehmenden Tageslicht noch voll auf ihre Kosten.",
+    "position": [-119.7633278, 37.0769238]
+  },
+  {
+    "title": "Tag 14: Yosemite Nationalpark",
+    "type": "panorama",
+    "images": [4414, 4505, 4466, 4469, 4513],
+    "description": "Heute steht der angeblich schönste Nationalpark der USA auf dem Plan. Leider spielt das Wetter nicht ganz mit. Aber wir lassen uns da nicht (vollkommen) von abhalten ... und gehen duschen...",
+    "position": [-119.5945886, 37.7440939]
+  },
+  {
+    "title": "Tag 15: Oakhurst -> Oakland",
+    "type": "normal",
+    "images": [4607, 4627, 4633, 4646],
+    "description": "Unterwegs vom Eichenholz zum Eichenland (einfallsreiche Namen) gibt es auf Wunsch eines einzelnes Herrn Milchshakes im Diner ... und ansonsten überdurchschnittlich viel Regen.",
+    "position": [-121.4387174, 37.7528863]
+  },
+  {
+    "title": "Tag 15: Oakland",
+    "type": "panorama",
+    "images": [4675, 4679, 4688, 4689],
+    "description": "Abends geht es noch einmal rund um den nahen Hafen mit Besichtigung der 'Straßenbahn', die jede Stunde etwa 5min lang unser Hotel mit Hupen verschöndert.",
+    "position": [-122.2770964, 37.7954599]
+  },
+  {
+    "title": "Tag 16: San Francisco",
+    "type": "normal",
+    "images": [4701, 4703, 4705, 4707],
+    "description": "Wir starten unsere Runde durch San Francisco am Rathaus und laufen dann zur Wendestelle der 'Cable Car'-Bahn, wo bereits hunderte Zuschauer darauf warten, dass die Bahn gewendet wird. Danach geht es steil bergauf zur Grace Cathedral, die Notre Dame nachempfunden wurde.",
+    "position": [-122.4146127, 37.7830559]
+  },
+  {
+    "title": "Tag 16: San Francisco",
+    "type": "panorama",
+    "images": [4710, 4709, 4711, 4712],
+    "description": "Nächster Halt ist das farbenprächtige Chinatown. Deutlich schöner als in Los Angeles.",
+    "position": [-122.409312, 37.7939331]
+  },
+  {
+    "title": "Tag 16: San Francisco",
+    "type": "panorama",
+    "images": [4714, 4719, 4722, 4737],
+    "description": "Anschließend geht's zur Lombard Street, die sich dem Russian Hill hinauf schlängelt, und von dort direkt zum Hafen, wo bereits alle möglichen Schiffe und die Robben am berühmten Pier 39 auf uns warten.",
+    "position": [-122.4194319, 37.8036339]
+  },
+  {
+    "title": "Tag 16: San Francisco",
+    "type": "panorama",
+    "images": [4760, 4774, 4759, 4763, 4784],
+    "description": "Von dort gehen wir immer am Wasser entlang und treffen auf die MS Disney, die zweigeschossige 'Bay Bridge', alte Straßenbahnen und das Ferry Building.",
+    "position": [-122.4099488, 37.8083811]
+  },
+  {
+    "title": "Tag 17: Alcatraz",
+    "type": "panorama",
+    "images": [4854, 4816, 4847, 4867],
+    "description": "Heute steht das berühmte Inselgefängnis Alcatraz auf dem Plan. Dazu fahren wir zunächst mit der Fähre nach San Francisco, schauen noch einmal kurz bei den Robben vorbei und steigen dann wieder auf die Fähre zur Insel, wobei wir auch einen kurzen Blick auf die 'Golden Gate Bridge' erhaschen.",
+    "position": [-122.4228974, 37.8267061]
+  },
+  {
+    "title": "Tag 17: Alcatraz",
+    "type": "panorama",
+    "images": [4975, 4922, 4933, 4991],
+    "description": "Als wir schließlich auf der inzwischen von Möwen eroberten Insel ankommen, erkunden wir bei Dauerregen die Ruinen von damals.",
+    "position": [-122.4228974, 37.8267061]
+  },
+  {
+    "title": "Tag 17: Alcatraz",
+    "type": "panorama",
+    "images": [5015, 5009, 5050, 5088],
+    "description": "Anschließend geht es mithilfe des einstündigen Audioguides durch das Gefängnis. Dabei erfahren wir vom damaligen Umgang und den wildesten Ausbruchversuchen.",
+    "position": [-122.4228974, 37.8267061]
+  },
+  {
+    "title": "Tag 18: Oakland -> Monterey",
+    "type": "normal",
+    "images": [5134, 5175, 5220, 5227],
+    "description": "Heute geht es weiter. Durch das verregnete Silicon Valley fahren wir in Richtung Küste und dann südlich nach Monterey.",
+    "position": [-122.0882971, 37.4205224]
+  },
+  {
+    "title": "Tag 18: Monterey",
+    "type": "panorama",
+    "images": [5268, 5275],
+    "description": "In Monterey angekommen, geht es direkt ins Aquarium zum Fischies gucken. Unterwegs schlendern wir am Hafen entlang und erfreuen uns wieder an den Robben und Kormoranen.",
+    "position": [-121.893663, 36.6037018]
+  },
+  {
+    "title": "Tag 18: Monterey Bay Aquarium",
+    "type": "panorama",
+    "images": [5388, 5328, 5341, 5345, 5470],
+    "description": "In der ehemaligen Fischkonserven-Fabrik lassen wir uns von der farbenfrohen Unterwasserwelt verzaubern.",
+    "position": [-121.9023834, 36.6184586]
+  },
+  {
+    "title": "Tag 18: Monterey Bay Aquarium",
+    "type": "normal",
+    "images": [5409, 5473, 5428, 5444],
+    "description": "Immer noch...",
+    "position": [-121.9023834, 36.6184586]
+  },
+  {
+    "title": "Tag 19: Monterey -> Los Angeles",
+    "type": "panorama",
+    "images": [5516, 5524, 5535, 5551],
+    "description": "Heute geht es schließlich auf unsere letzte Etappe. Entlang der Küste in Richtung Süden nach Los Angeles.",
+    "position": [-121.8061386, 36.2665147]
+  },
+  {
+    "title": "Tag 19: Monterey -> Los Angeles",
+    "type": "panorama",
+    "images": [5580, 5584, 5590, 5690, 5698, 5708],
+    "description": "Neben dem unglaublich schönen Küstenabschnitt an sich, überrascht uns eine riesige Seeelefanten-Kolonie, die wohl auch bei den Eichhörnchen beliebt zu sein scheint (unten rechts).",
+    "position": [-121.2594766, 35.6636049]
+  },
+  {
+    "title": "Tag 19: Monterey -> Los Angeles",
+    "type": "panorama",
+    "images": [5799, 5796, 5803, 5833],
+    "description": "Kurz vorm Ende unserer Rundreise schauen wir noch in Malibu vorbei und bewundern die leeren Sandstrände, um dann in der berühmten Rush Hour fröhlich nach Hause zu kriechen.",
+    "position": [-118.7835043, 34.0272119]
+  },
+  {
+    "title": "Ende",
+    "type": "panorama",
+    "images": ["USA", "Europa"],
+    "description": "Nun ist unsere Reise also zuende. Falls sich jemand wundert, warum hier so wenig schöne Bilder und stattdessen so viele fleckige Bilder aus dem Auto sind: Hier mal ein Versuch die Dimensionen der Strecke (ca. 5500 km) etwas zu veranschaulichen."
+  }
+]
